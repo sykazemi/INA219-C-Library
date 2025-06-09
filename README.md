@@ -1,5 +1,5 @@
 
-```markdown
+
 # INA219 STM32 HAL Driver
 
 A robust, modular and configurable driver for the **INA219** current, voltage, and power sensor using **STM32 HAL**, written in industrial-grade style.
