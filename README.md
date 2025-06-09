@@ -102,8 +102,7 @@ MIT License. See `LICENSE` file.
 
 **Seyed Yasin Kazemi**
 Industrial Embedded Systems Developer
-Contact: *\[Add contact info or GitHub profile link]*
+Contact: https://github.com/sykazemi/
 
-```
 
 
